@@ -1,0 +1,17 @@
+{
+	CFBundleExecutable = SafePreferences;
+	CFBundleIconFile = "Icon.png";
+	CFBundleIdentifier = "ch.rpetri.safepreferences";
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundlePackageType = APPL;
+	CFBundleSignature = "????";
+	"CFBundleSupportedPlatforms" = (
+		iPhoneOS,
+	);
+	CFBundleVersion = "1.0";
+	DTPlatformName = iphoneos;
+	DTSDKName = "iphoneos3.0";
+	LSRequiresIPhoneOS = YES;
+	MinimumOSVersion = "2.0";
+	UIStatusBarStyle = UIStatusBarStyleDefault;
+}

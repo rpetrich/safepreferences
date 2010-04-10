@@ -1,0 +1,4 @@
+.debmake
+*.deb
+_
+obj

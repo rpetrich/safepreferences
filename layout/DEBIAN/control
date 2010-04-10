@@ -1,0 +1,10 @@
+Package: ch.rpetri.safepreferences
+Name: Safe Preferences
+Depends: mobilesubstrate
+Version: 0.9
+Architecture: iphoneos-arm
+Description: Adjust PreferenceLoader settings from safe mode
+Maintainer: Ryan Petrich (rpetrich@gmail.com)
+Author: Ryan Petrich (rpetrich@gmail.com)
+Depends: mobilesubstrate, preferenceloader
+Section: System
